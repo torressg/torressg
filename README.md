@@ -3,7 +3,7 @@
 Opa, me chamo Guilherme!
 
 - 🎓 Estou cursando Ciência da Computação
-- Atuo como Analista de Sistemar Jr.
+- 💼 Atuo como Analista de Sistemar Jr.
 
 ## Sobre mim
 
