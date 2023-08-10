@@ -8,7 +8,7 @@ Opa, me chamo Guilherme!
 ## Sobre mim
 
 - 🎮 Apaixonado por jogos puzzle, aventura e FPS
-- 📍 Tenho como objetivo atuar como Desenvolvedor Front-End
+- 📍 Tenho como objetivo atuar como Desenvolvedor
 
 
 ## Linguagens 🛠
