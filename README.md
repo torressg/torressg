@@ -4,6 +4,8 @@ Hey there! I’m **Guilherme Torres**, a **Full Stack Developer** passionate abo
 
 💼 Currently working at **UoledTech**, where I develop and maintain the **EAD platform for universities** — improving video delivery, course materials, assessments, and collaboration tools.  
 
+🌐 You can also check out my portfolio at **[ogtorres.dev](https://ogtorres.dev)**  
+
 ---
 
 ## 🧠 About Me  
@@ -31,6 +33,10 @@ Hey there! I’m **Guilherme Torres**, a **Full Stack Developer** passionate abo
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
 </p>
 
 ### SRE / DevOps  
