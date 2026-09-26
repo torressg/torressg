@@ -1,73 +1,33 @@
-# 👋 Welcome to my GitHub  
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Torres</h1>
 
-Hey there! I’m **Guilherme Torres**, a **Full Stack Developer** passionate about building impactful digital experiences.  
+- 🔥 Software Engineer | Automation & Integrations
 
-💼 Currently working at **UoledTech**, where I develop and maintain the **EAD platform for universities** — improving video delivery, course materials, assessments, and collaboration tools.  
+- 🔭 I'm currently working at **Kaizen Gaming**
 
-🌐 You can also check out my portfolio at **[ogtorres.dev](https://ogtorres.dev)**  
+- 💬 Ask me about **Node.js, Python, AWS & Automation**
 
----
+- ⚡ Fun fact: I got into automation to break into the sneaker reselling game
 
-## 🧠 About Me  
+- 👨‍💻 More at [ogtorres.dev](https://ogtorres.dev)
 
-- 🚀 Focused on continuous learning and clean, scalable development  
-- 🧩 Passionate about **puzzle**, **adventure**, and **FPS** games  
-- ⚙️ Always exploring new **technologies, concepts, and best practices**  
-- 🎯 Currently diving deeper into **mobile development**  
+<br><br>
 
----
+## Contact
 
-## 🛠️ Tech Stack  
-
-### Frontend  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
+<a href="https://linkedin.com/in/guilhermetorresvanderlei" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-guilhermetorresvanderlei-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://x.com/ogtorresdev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ogtorresdev-05122A?style=flat&logo=x" alt="x"/>
+</a>
+<a href="https://ogtorres.dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ogtorres.dev-05122A?style=flat&logo=googlechrome&logoColor=white" alt="website"/>
+</a>
 </p>
 
-### Backend  
+<br><br>
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,nextjs,react,postgres,aws,docker,swift" alt="TypeScript, JavaScript, Python, Node.js, NestJS, Next.js, React, PostgreSQL, AWS, Docker, Swift" />
 </p>
-
-### SRE / DevOps  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" width="50" height="50"/>
-</p>
-
-### Quality & Tools  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=jest" alt="jest" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
-</p>
-
-### Currently Learning  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=dart" alt="dart" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=bun" alt="bun" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=swift" alt="swift" width="50" height="50"/>
-</p>
-
----
-
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermetorresvanderlei/)
-
----
